@@ -36,7 +36,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/craftbeer-desktop-management-java.git
+   git clone https://github.com/khoilieu/craftbeer-desktop-management-java.git
    cd craftbeer-desktop-management-java
    ```
 
@@ -57,7 +57,7 @@
 ### Alternative: Command Line Build
 ```bash
 # Navigate to project directory
-cd "Lieu Vinh Khoi"
+cd "craftbeer-desktop-management-java"
 
 # Build using Ant
 ant clean
